@@ -1,2 +1,2 @@
 # BibliotecaFacturacion
-Desarrollo de una biblioteca de descuentos para facturación.
+Desarrollo de una biblioteca de descuentos para facturación al generar la venta, evalúa mediante estructuras condicionales el perfil del cliente y el volumen de la compra: aplica un porcentaje de descuento basado en el rango de edad o si la cantidad de ejemplares supera un umbral establecido. Al final, el sistema procesa la información de la lista para actualizar el stock disponible y entrega un desglose detallado del precio base, los descuentos aplicados y el total final de la factura.
